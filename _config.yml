@@ -59,17 +59,17 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
+  - name: Alejandra Cossio Chavalier
+    position: Presidenta
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
+      - title:  #use for email address
+        url: ale7cosch@gmail.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/alejandra-cossio-chavalier/
+  - name: Jeymi Paulas
+    position: Vice-Presidenta
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
@@ -77,8 +77,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
+  - name: Daniel Camacho Santa Cruz
+    position: Tesorero
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team03.jpg
     social:
@@ -86,10 +86,19 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Martin Blunt
+  - name: Pamela Navia
     position: Marketing
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Denilson Fiesta
+    position: Secretario
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
