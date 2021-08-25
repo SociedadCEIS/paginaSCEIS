@@ -21,15 +21,6 @@ colors:  #in hex code if not noted else
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
-# Making projects separate from posts
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-  questions:
-    output: true
-    permalink: /questions/:title/
-
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -59,19 +50,28 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Alejandra Cossio Chavalier
-    position: Presidenta
+  - name: Juan Pablo Sandoval Alcocer
+    position: Docente asesor
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
-      - title:  #use for email address
-        url: ale7cosch@gmail.com
+      - title: envelope
+        url: alejandra.cossio.ch@gmail.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/alejandra-cossio-chavalier/
+  - name: Alejandra Cossio Chavalier
+    position: Presidenta
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope
+        url: alejandra.cossio.ch@gmail.com
       - title: linkedin
         url: https://www.linkedin.com/in/alejandra-cossio-chavalier/
   - name: Jeymi Paulas
     position: Vice-Presidenta
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    img: team03.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -80,7 +80,7 @@ members:
   - name: Daniel Camacho Santa Cruz
     position: Tesorero
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -89,7 +89,7 @@ members:
   - name: Pamela Navia
     position: Marketing
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
+    img: team06.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -98,7 +98,7 @@ members:
   - name: Denilson Fiesta
     position: Secretario
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
