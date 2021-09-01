@@ -25,15 +25,11 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+  - title: linkedin
+    url: 
   - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
+    url: https://www.facebook.com/SCEIS-UCB-Sociedad-Cient%C3%ADfica-de-Ingenier%C3%ADa-de-Sistemas-102775131962276
+  - title: github
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -56,8 +52,7 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-      - title: github
-        url: 
+ 
   - name: Alejandra Cossio Chavalier
     position: Presidenta
     text: Responsable de entregar informes que solicita coordinación regional, 
@@ -118,5 +113,5 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Somos un grupo de estudiantes de la carrera de Ing. de Sistemas cuyo objetivo es realizar, publicar y diseminar investigaciones científicas de alto impacto en ciencias de la computación."
 
