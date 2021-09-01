@@ -55,8 +55,7 @@ members:
  
   - name: Alejandra Cossio Chavalier
     position: Presidenta
-    text: Responsable de entregar informes que solicita coordinación regional, 
-    responsable de la logística, los contactos y la gestión de eventos que realiza la sociedad.
+    text: Responsable de entregar informes que solicita coordinación regional, responsable de la logística, los contactos y la gestión de eventos que realiza la sociedad.
     img: team02.jpg
     social:
       - title: envelope
@@ -65,8 +64,7 @@ members:
         url: https://www.linkedin.com/in/alejandra-cossio-chavalier/
   - name: Jeymi Paulas
     position: Vice-Presidenta
-    text: Responsable de entregar informes que solicita coordinación regional, 
-    responsable de la logística, los contactos y la gestión de eventos que realiza la sociedad.
+    text: Responsable de entregar informes que solicita coordinación regional, responsable de la logística, los contactos y la gestión de eventos que realiza la sociedad.
     img: team03.jpg
     social:
       - title: envelope #use for email address
