@@ -218,6 +218,7 @@ a:focus {
 #headerwrap {
 	/* background-color: {{ site.colors.primary }}; */
 	background-image: url("../../assets/img/header.jpg") !important;
+	background-size: cover;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -225,12 +226,12 @@ a:focus {
 }
 
 #headerwrap h3, h5 {
-	color: white;
+	color: black;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: white;
+	color: black;
 	margin-bottom: 25px;
 }
 
