@@ -17,8 +17,8 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> PROYECTOS</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">NACIONALES<li {% if page.title == "Nationals" %}class="active"{% endif %}><a href="{{"/nationals/" | prepend: site.baseurl }}">NACIONALES</a></li> </a>
-              <a class="dropdown-item" href="#">INTERNACIONALES</a>
+              <a class="dropdown-item" href="{{"/nationals/" | prepend: site.baseurl }}"></a>"#">NACIONALES</a>
+              <a class="dropdown-item" href="{{"/internationals/" | prepend: site.baseurl }}">>INTERNACIONALES</a>
             </div>
         </li>
         <li {% if page.title == "Alumni" %}class="active"{% endif %}><a href="{{"/alumni/" | prepend: site.baseurl }}">ALUMNOS</a></li>
