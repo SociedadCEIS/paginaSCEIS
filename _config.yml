@@ -80,7 +80,7 @@ members:
         url: http://twitter.com/handle
   - name: Pamela Navia
     position: Coordinadora
-    img: team06.jpg
+    img: team05.png
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -88,7 +88,7 @@ members:
         url: http://twitter.com/handle
   - name: Denilson Fiesta
     position: Secretario
-    img: team04.jpg
+    img: team06.jpeg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
