@@ -14,13 +14,17 @@
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">INICIO</a></li>
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">NOSOTROS</a></li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> PROYECTOS</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a href="{{"/nationals/" | prepend: site.baseurl }}">NATIONALS</a></li>
-              <a href="{{"/internationals/" | prepend: site.baseurl }}">INTERNATIONALS</a></li>
-            </div>
-        </li>
+        <div class="container">
+          <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">PROYECTOS
+            <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+              <input class="form-control" id="myInput" type="text" placeholder="Search..">
+              <li><a href=href="{{"/nationals/" | prepend: site.baseurl }}">NACIONALES</a></li>
+              <li><a href=href="{{"/internationals/" | prepend: site.baseurl }}">INTERNACIONALES</a></li>
+            </ul>
+          </div>
+        </div>
         <li {% if page.title == "Alumni" %}class="active"{% endif %}><a href="{{"/alumni/" | prepend: site.baseurl }}">ALUMNOS</a></li>
         <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">CONTÁCTANOS</a></li>
       </ul>
