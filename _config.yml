@@ -80,12 +80,12 @@ members:
         url: http://twitter.com/handle
   - name: Pamela Navia
     position: Coordinadora
-    img: team05.png
+    img: team05.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:pamela.ga.pga@gmail.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/pamela-navia-aramburo-5957b91a5/
   - name: Denilson Fiesta
     position: Secretario
     img: team06.jpeg
