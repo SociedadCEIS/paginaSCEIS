@@ -88,7 +88,7 @@ members:
         url: https://www.linkedin.com/in/pamela-navia-aramburo-5957b91a5/
   - name: Denilson Fiesta
     position: Secretario
-    img: team06.jpeg
+    img: team06.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
