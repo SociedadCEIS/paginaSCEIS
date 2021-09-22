@@ -67,9 +67,9 @@ members:
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:daniel.camacho.santacruz.5c@gmail.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/daniel-camacho-santacruz/
   - name: Daniel Camacho Santa Cruz
     position: Tesorero
     img: team04.jpg
