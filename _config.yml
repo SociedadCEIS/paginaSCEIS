@@ -47,37 +47,39 @@ email: sceis.ucbcba@gmail.com
 
 # Members information. Shown on About page.
 members:
-  - name: Dr. Juan Pablo Sandoval 
-    position: Docente asesor
+  - name: Ing. Geraldine Galindo
+    position: Investigadora auxiliar
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:juampiboy@gmail.com
+        url: mailto:widni.galindo@ucb.edu.bo
+      - title: linkedin
+        url: https://www.linkedin.com/in/geraldine-galindo-a6a23720b/
  
-  - name: Alejandra Cossio 
-    position: Presidente
+  - name: Ing. Dussan Freire
+    position: Investigador auxiliar
     img: team02.jpg
     social:
       - title: envelope
-        url: mailto:alejandra.cossio.ch@gmail.com
+        url: mailto:dussan.freire@gmail.com
       - title: linkedin
-        url: https://www.linkedin.com/in/alejandra-cossio-chavalier/
-  - name: Jeymi Paulas
-    position: Vice-Presidente
+        url: https://www.linkedin.com/in/dussan-freire
+  - name: Tiara Rojas
+    position: Presidenta
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:jey.pc.07@gmail.com
+        url: mailto:t.rojasstambuk@gmail.com    
       - title: linkedin
-        url: https://www.linkedin.com/in/jeymi-brigitte-paulas-condori-b19916212
-  - name: Daniel Camacho Santa Cruz
-    position: Tesorero
+        url: https://www.linkedin.com/in/tiara-rojas-51b157224/  
+  - name: Kevin Céspedes
+    position: Vice-Presidente
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:daniel.camacho.santacruz.5c@gmail.com
+        url: mailto:kev.cespedes.arancibia@gmail.com
       - title: linkedin
-        url: https://www.linkedin.com/in/daniel-camacho-santacruz/e
+        url: https://www.linkedin.com/in/kevin-cespedes-arancibia-4a4b701b7/
   - name: Pamela Navia
     position: Coordinadora
     img: team05.jpg
@@ -94,6 +96,12 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
+  - name: Carolina Melendez
+    position: Voluntaria
+    img: team07.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:carolina.melendez376@gmail.com
 
 # Clients information. Shown on Home and About pages.
 clients:
