@@ -47,23 +47,6 @@ email: sceis.ucbcba@gmail.com
 
 # Members information. Shown on About page.
 members:
-  - name: Ing. Geraldine Galindo
-    position: Investigadora auxiliar
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:widni.galindo@ucb.edu.bo
-      - title: linkedin
-        url: https://www.linkedin.com/in/geraldine-galindo-a6a23720b/
- 
-  - name: Ing. Dussan Freire
-    position: Investigador auxiliar
-    img: team02.jpg
-    social:
-      - title: envelope
-        url: mailto:dussan.freire@gmail.com
-      - title: linkedin
-        url: https://www.linkedin.com/in/dussan-freire
   - name: Tiara Rojas
     position: Presidenta
     img: team03.jpg
